@@ -4,7 +4,7 @@ A Python script that creates interactive visualizations of cloud architecture co
 
 ## 🌐 Live Demo
 
-View the interactive visualization here: [GitHub Pages](https://username.github.io/repo-name/)
+View the interactive visualization here: [GitHub Pages](https://evepavliy.github.io/cloud-architecture-visualization/)
 
 ## 📋 Features
 
@@ -38,8 +38,8 @@ The visualization includes common cloud infrastructure components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/evepavliy/cloud-architecture-visualization.git
+cd cloud-architecture-visualization
 ```
 
 2. Install dependencies:
@@ -102,7 +102,7 @@ The repository is configured for GitHub Pages deployment:
 2. Go to repository Settings → Pages
 3. Select "Deploy from a branch"
 4. Choose `main` branch and `/docs` folder
-5. Your visualization will be available at `https://username.github.io/repo-name/`
+5. Your visualization will be available at `https://evepavliy.github.io/cloud-architecture-visualization/`
 
 ## 🛠️ Dependencies
 
